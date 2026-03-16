@@ -1,0 +1,1 @@
+python command_line_model_tester.py --model "model\model-1.keras" --clips "audio\sanskar.m4a" "audio\pritish.m4a" -n 91
